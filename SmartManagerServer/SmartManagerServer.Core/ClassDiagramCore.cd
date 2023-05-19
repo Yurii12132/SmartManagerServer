@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.DocumentObject" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Entities\SmartManagerServer\DocumentObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.Employee" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAGgtAAEAgIAgAAAAAAAAAAAQABAAAgAoIAwgAEg=</HashCode>
+      <FileName>Entities\SmartManagerServer\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.EmployeeCalculation" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAQQAAAAAACAAAAACBAAAAAAACAAQ=</HashCode>
+      <FileName>Entities\SmartManagerServer\EmployeeCalculation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.File" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQCAAAAAwAAAAAAAAAAAAAAAAgAAAAAAECAAAAA=</HashCode>
+      <FileName>Entities\SmartManagerServer\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.ImageObject" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Entities\SmartManagerServer\ImageObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.Object" Collapsed="true">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAMAAEAgAAAAAAAAAQAGAAACgAAAAABEAEAAAA=</HashCode>
+      <FileName>Entities\SmartManagerServer\Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.OutlayEmployee" Collapsed="true">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAMAQAAAAAgQAAAAAAACAAAAAABAAAAAAACAAA=</HashCode>
+      <FileName>Entities\SmartManagerServer\OutlayEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.OutlayMaterial" Collapsed="true">
+    <Position X="6" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAMAQAAAAAgAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\SmartManagerServer\OutlayMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.Payout" Collapsed="true">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAQAAAAAgAAAAAAQAAAAEAAABAAAAAAIAAAA=</HashCode>
+      <FileName>Entities\SmartManagerServer\Payout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.Prepaid" Collapsed="true">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAACAAAAAABAAAAAAACAAQ=</HashCode>
+      <FileName>Entities\SmartManagerServer\Prepaid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Entities.SmartManagerServer.Status" Collapsed="true">
+    <Position X="2.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEAAAAgAAAAAAQACAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\SmartManagerServer\Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Exceptions.EntityNotFoundException" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\EntityNotFoundException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Exceptions.ExceptionHandlerModel" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAgAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Exceptions\ExceptionHandlerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Exceptions.ModelValidationException" Collapsed="true">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ModelValidationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Exceptions.NoPermissionsException" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\NoPermissionsException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Infrastructure.Comparers.StringIgnoreCaseEqualityComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Comparers\StringIgnoreCaseEqualityComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartManagerServer.Core.Infrastructure.TypeExtensions.DateExtensions" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\TypeExtensions\DateExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Infrastructure.TypeExtensions.ExceptionExtension" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\TypeExtensions\ExceptionExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Infrastructure.TypeExtensions.JsonExtensions" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\TypeExtensions\JsonExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Infrastructure.TypeExtensions.StringExtensions" Collapsed="true">
+    <Position X="4.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABCAAIAAAAgAAAAAAAAAIAAAAAAAgAAAhggAAAAACQ=</HashCode>
+      <FileName>Infrastructure\TypeExtensions\StringExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Infrastructure.Utilities.GenericUtilities" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Utilities\GenericUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Infrastructure.Utilities.ObjectXmlSerializer" Collapsed="true">
+    <Position X="2.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Utilities\ObjectXmlSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Models.Auth.UserAccount" Collapsed="true">
+    <Position X="7.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEEAAACAAAAAAAAAAAQAABAAAAAAAAEAAAAACAAA=</HashCode>
+      <FileName>Models\Auth\UserAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Models.Configuration.EmailRecipientsConfiguration" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configuration\EmailRecipientsConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Models.Configuration.FileStorageConfiguration" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Models\Configuration\FileStorageConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Models.Configuration.SmtpConfiguration" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAABAAAAAACAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configuration\SmtpConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Validation.ModelValidationError" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Validation\ModelValidationError.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Validation.ModelValidationResult" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Validation\ModelValidationResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Core.Validation.ModelValidator" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAACAAAAAAAAAAAAAAAAAAAEAAAAABAAggAA=</HashCode>
+      <FileName>Validation\ModelValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SmartManagerServer.Core.Repositories.IGenericRepository&lt;T&gt;" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAABAAAAAAAAAAABAAAAIAEAAg=</HashCode>
+      <FileName>Repositories\IGenericRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.Repositories.ActiveDirectory.IActiveDirectoryRepository" Collapsed="true">
+    <Position X="0.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ActiveDirectory\IActiveDirectoryRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.Repositories.SmartManagerServer.IEmployeeCalculationRepository" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\IEmployeeCalculationRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.Repositories.SmartManagerServer.IEmployeeRepository" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\IEmployeeRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.Repositories.SmartManagerServer.IObjectRepository" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\IObjectRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.Repositories.SmartManagerServer.IOutlayEmployeeRepository" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\IOutlayEmployeeRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.Repositories.SmartManagerServer.IOutlayMaterialRepository" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\IOutlayMaterialRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.Repositories.SmartManagerServer.IPayoutRepository" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\IPayoutRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.Services.INotificationService" Collapsed="true">
+    <Position X="2.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\INotificationService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.UoWs.ISmartManagerServerUnitOfWork" Collapsed="true">
+    <Position X="8.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAFAAAAAAAAAAAgAAAAAAAAABA=</HashCode>
+      <FileName>UoWs\ISmartManagerServerUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.UoWs.IUnitOfWork" Collapsed="true">
+    <Position X="10.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UoWs\IUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Core.Validation.IValidationRule" Collapsed="true">
+    <Position X="4.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Validation\IValidationRule.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

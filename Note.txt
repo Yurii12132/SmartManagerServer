@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=MUKM0521\SQLEXPRESS;Initial Catalog=SmartManager;Integrated Security=True" Microsoft.EntityFrameWorkCore.SqlServer -Project SmartManagerServer.Core -OutputDir Entities/SmartManagerServer -ContextDir Data -Context "SmartManagerServerContext" -StartupProject SmartManagerServer.Infrastructure -Force -Verb

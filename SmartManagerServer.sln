@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartManagerServer", "SmartManagerServer\SmartManagerServer\SmartManagerServer.csproj", "{6C536781-E4BC-4EC6-B0B1-4DAC0CA0A95C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartManagerServer.Core", "SmartManagerServer\SmartManagerServer.Core\SmartManagerServer.Core.csproj", "{5846D91C-B145-4A00-A1B8-E4336DDE94F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartManagerServer.Domain", "SmartManagerServer\SmartManagerServer.Domain\SmartManagerServer.Domain.csproj", "{F6C0D0FC-BCBB-487B-A978-113089AE870F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartManagerServer.EndPointExtensions", "SmartManagerServer\SmartManagerServer.EndPointExtensions\SmartManagerServer.EndPointExtensions.csproj", "{40A72BB8-A4E0-4F64-8C67-DE5BA0E322B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartManagerServer.Infrastructure", "SmartManagerServer\SmartManagerServer.Infrastructure\SmartManagerServer.Infrastructure.csproj", "{9E304EFB-DB2A-46EE-9312-6591C67F849D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{BE4615FE-20F3-436D-AA3B-66E6A4DB996C}"
+	ProjectSection(SolutionItems) = preProject
+		Note.txt = Note.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C536781-E4BC-4EC6-B0B1-4DAC0CA0A95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C536781-E4BC-4EC6-B0B1-4DAC0CA0A95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C536781-E4BC-4EC6-B0B1-4DAC0CA0A95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C536781-E4BC-4EC6-B0B1-4DAC0CA0A95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5846D91C-B145-4A00-A1B8-E4336DDE94F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5846D91C-B145-4A00-A1B8-E4336DDE94F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5846D91C-B145-4A00-A1B8-E4336DDE94F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5846D91C-B145-4A00-A1B8-E4336DDE94F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C0D0FC-BCBB-487B-A978-113089AE870F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C0D0FC-BCBB-487B-A978-113089AE870F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C0D0FC-BCBB-487B-A978-113089AE870F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C0D0FC-BCBB-487B-A978-113089AE870F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A72BB8-A4E0-4F64-8C67-DE5BA0E322B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A72BB8-A4E0-4F64-8C67-DE5BA0E322B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A72BB8-A4E0-4F64-8C67-DE5BA0E322B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A72BB8-A4E0-4F64-8C67-DE5BA0E322B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E304EFB-DB2A-46EE-9312-6591C67F849D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E304EFB-DB2A-46EE-9312-6591C67F849D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E304EFB-DB2A-46EE-9312-6591C67F849D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E304EFB-DB2A-46EE-9312-6591C67F849D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4D7A29-8B56-4D8E-A338-C21F85D1C5C2}
+	EndGlobalSection
+EndGlobal

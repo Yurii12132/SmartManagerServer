@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmartManagerServer.Infrastructure.Data.SmartManagerServerContext" Collapsed="true">
+    <Position X="3.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAQEQgAAgAAAAAAAAGAAECgAAAAAAEAQAAAA=</HashCode>
+      <FileName>Data\SmartManagerServerContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Models.Configuration.ActiveDirectoryConfiguration" Collapsed="true">
+    <Position X="3.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAIAAAAAAAIAAAAAAAgAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Configuration\ActiveDirectoryConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Models.Configuration.AuthConfiguration" Collapsed="true">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\Configuration\AuthConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Models.Mailing.EmailDataModel" Collapsed="true">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAACAAAAIABAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Mailing\EmailDataModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Repositories.ActiveDirectory.ActiveDirectoryRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEABABAAAAAAAAAAQAAAACAABAAACAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ActiveDirectory\ActiveDirectoryRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Repositories.SmartManagerServer.EmployeeCalculationRepository" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\EmployeeCalculationRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Repositories.SmartManagerServer.EmployeeRepository" Collapsed="true">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\EmployeeRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Repositories.SmartManagerServer.ObjectRepository" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\ObjectRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Repositories.SmartManagerServer.OutlayEmployeeRepository" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\OutlayEmployeeRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Repositories.SmartManagerServer.OutlayMaterialRepository" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\OutlayMaterialRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Repositories.SmartManagerServer.PayoutRepository" Collapsed="true">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\SmartManagerServer\PayoutRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Resources.GenericRepository&lt;T&gt;" Collapsed="true">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYCAAAAAAAAAAAAAAAABAAAAAAAAAAABAAAAIAEAAg=</HashCode>
+      <FileName>Resources\GenericRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Services.Mailing.EmailNotificationService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAgAAAAAg=</HashCode>
+      <FileName>Services\Mailing\EmailNotificationService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Services.Mailing.EmailTemplateProvider" Collapsed="true">
+    <Position X="5.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Services\Mailing\EmailTemplateProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Services.Mailing.EmailDataProviders.ExceptionEmailDataProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAEAQAAAAAAAAAAg=</HashCode>
+      <FileName>Services\Mailing\EmailDataProviders\ExceptionEmailDataProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.Services.Web.HttpContextService" Collapsed="true">
+    <Position X="9" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAgAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Web\HttpContextService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Infrastructure.UoWs.SmartManagerServerUnitOfWork" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAIAFAAAAAIAAAAAgAAAAAAAAABA=</HashCode>
+      <FileName>UoWs\SmartManagerServerUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="SmartManagerServer.Infrastructure.Contracts.Mailing.IEmailDataProvider" Collapsed="true">
+    <Position X="3.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Mailing\IEmailDataProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Infrastructure.Contracts.Mailing.IEmailSender" Collapsed="true">
+    <Position X="5.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Mailing\IEmailSender.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Infrastructure.Contracts.Mailing.ISmtpService" Collapsed="true">
+    <Position X="7.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Mailing\ISmtpService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

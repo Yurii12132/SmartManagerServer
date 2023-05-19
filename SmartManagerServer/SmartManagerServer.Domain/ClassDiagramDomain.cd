@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmartManagerServer.Domain.Mappers.EmployeeCalculationMappingProfile" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mappers\EmployeeCalculationMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Mappers.EmployeeMappingProfile" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mappers\EmployeeMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Mappers.FileMappingProfile" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mappers\FileMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Mappers.ObjectMappingProfile" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mappers\ObjectMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Mappers.OutlayEmployeeMappingProfile" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mappers\OutlayEmployeeMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Mappers.OutlayMaterialMappingProfile" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mappers\OutlayMaterialMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Mappers.PayoutMappingProfile" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mappers\PayoutMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Models.EmployeeCalculationModel" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAQQAAAAAAAAAAAACBAAAAAAACAAQ=</HashCode>
+      <FileName>Models\EmployeeCalculationModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Models.EmployeeModel" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAGgBAAAAAIAAAAAAAAAAAAAQABAAAgAoIAAgAkg=</HashCode>
+      <FileName>Models\EmployeeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Models.FileModel" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\FIleModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Models.ObjectInformationModel" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQACAAAABACAAAAAAEAAgA=</HashCode>
+      <FileName>Models\ObjectInformationModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Models.ObjectModel" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAEAAAAAAAAAABAAAAAgA=</HashCode>
+      <FileName>Models\ObjectModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Models.OutlayEmployeeModel" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAQAAAAAAQAAAAAAAAAAAAAABAAAAAAACAgA=</HashCode>
+      <FileName>Models\OutlayEmployeeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Models.OutlayEmployeeOutputModel" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAQAAAAAAAAAAAAAAAAAAAAABAAAAAAACAwA=</HashCode>
+      <FileName>Models\OutlayEmployeeOutputModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Models.OutlayMaterialModel" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAQAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAgA=</HashCode>
+      <FileName>Models\OutlayMaterialModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Models.PayoutModel" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAQAAAAAAAAAAAAQAAAAAAAABAAAAAAIAAgA=</HashCode>
+      <FileName>Models\PayoutModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Services.EmployeeCalculationService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\EmployeeCalculationService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Services.EmployeeService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAIAAAAAAAAAACCAAAAAAgAAAAAIIAAAIA=</HashCode>
+      <FileName>Services\EmployeeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Services.ObjectService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAIAAAAAAAAAGACIAAAAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>Services\ObjectService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Services.OutlayEmployeeService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAACCAAAQAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>Services\OutlayEmployeeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Services.OutlayMaterialService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAACCAAAAAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>Services\OutlayMaterialService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartManagerServer.Domain.Services.PayoutService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAACCAAAAAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>Services\PayoutService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="SmartManagerServer.Domain.Contracts.Services.IEmployeeCalculaationService" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Services\IEmployeeCalculaationService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Domain.Contracts.Services.IEmployeeService" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAACAAAAAAAgAAAAAIIAAAIA=</HashCode>
+      <FileName>Contracts\Services\IEmployeeService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Domain.Contracts.Services.IObjectService" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAGAAIAAAAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>Contracts\Services\IObjectService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Domain.Contracts.Services.IOutlayEmployeeService" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>Contracts\Services\IOutlayEmployeeService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Domain.Contracts.Services.IOutlayMaterialService" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>Contracts\Services\IOutlayMaterialService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmartManagerServer.Domain.Contracts.Services.IPayoutService" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>Contracts\Services\IPayoutService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
