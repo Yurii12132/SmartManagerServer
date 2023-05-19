@@ -12,7 +12,7 @@ namespace SmartManagerServer.Controllers
     {
         public CalculationController()
         {
-
+              
         }
 
     }
